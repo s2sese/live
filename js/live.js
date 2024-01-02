@@ -17,6 +17,6 @@ $(function(){
 
     // 배경 클릭 시 팝업과 배경 사라짐
     $("#popup, .bg").on("click", function (){
-        $("#popup, .bg").fadeOut(); //사라짐
+        $("#popup, .bg").fadeOut(); // 사라짐
     });
 });
